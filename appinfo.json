@@ -1,7 +1,7 @@
 {
 	"id": "com.visiblink.newsz",
 	"version": "0.1.0",
-	"vendor": "Visiblink",
+	"vendor": "Shuswap",
 	"type": "web",
 	"main": "index.html",
 	"title": "NewsZ",
